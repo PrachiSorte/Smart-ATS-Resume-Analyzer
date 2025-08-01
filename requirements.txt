@@ -1,0 +1,15 @@
+streamlit
+
+# Langchain core
+langchain
+langchain-core
+
+#Google Gemini Integration
+langchain-google-genai
+google-generativeai
+
+# Environment variable Management
+python-dotenv
+
+#Document Loaders
+PyPDF2
